@@ -87,4 +87,4 @@ def main(page: ft.Page):
 
 # 🔥 ¡Esta es la forma correcta para Flet Cloud!
 if __name__ == "__main__":
-    ft.app(target=main, view=ft.AppView.WEB_BROWSER)
+    ft.app(target=main)
